@@ -1,20 +1,20 @@
 {
-  "version": 1,
+  "version": 2,
   "tienda": {
-    "nombre": "URB Ventas",
-    "banner_message": "",
+    "nombre": "URB Importaciones",
+    "banner_message": "Estamos de vuelta online",
     "paused": false,
-    "email": "",
-    "phone": ""
+    "email": "urb@urb.com",
+    "phone": "299333333333"
   },
   "margenes": {
     "mayorista": 60,
     "minorista": 34,
-    "redondeo_mayorista": "NONE",
-    "redondeo_minorista": "NONE"
+    "redondeo_mayorista": "UP",
+    "redondeo_minorista": "UP"
   },
   "moneda": {
-    "display": "ORIGINAL",
+    "display": "ARS",
     "usd_rate": 1800
   },
   "envios": {
