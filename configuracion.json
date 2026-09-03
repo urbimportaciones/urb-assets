@@ -1,0 +1,50 @@
+{
+  "version": 1,
+  "tienda": {
+    "nombre": "URB Ventas",
+    "banner_message": "",
+    "paused": false,
+    "email": "",
+    "phone": ""
+  },
+  "margenes": {
+    "mayorista": 60,
+    "minorista": 34,
+    "redondeo_mayorista": "NONE",
+    "redondeo_minorista": "NONE"
+  },
+  "moneda": {
+    "display": "ORIGINAL",
+    "usd_rate": 1800
+  },
+  "envios": {
+    "enabled": true,
+    "cost": 0,
+    "free_threshold": 0,
+    "pickup_enabled": true,
+    "pickup_address": "",
+    "empresas": [
+      "Correo Argentino",
+      "OCA",
+      "Via Cargo"
+    ]
+  },
+  "whatsapp": {
+    "enabled": true,
+    "number": "",
+    "consultas_enabled": false,
+    "consultas_number": ""
+  },
+  "web": {
+    "cart_add_price": "retail",
+    "show_retail_price": true,
+    "show_wholesale_price": true,
+    "show_stock": true,
+    "show_products_without_stock": true,
+    "social_share": false
+  },
+  "checkout": {
+    "wholesale_threshold": 1,
+    "mp_enabled": false
+  }
+}
