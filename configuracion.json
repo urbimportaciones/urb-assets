@@ -1,5 +1,5 @@
 {
-  "version": 5,
+  "version": 6,
   "tienda": {
     "nombre": "URB Importaciones",
     "banner_message": "Estamos de vuelta online",
@@ -15,7 +15,7 @@
   },
   "moneda": {
     "display": "ARS",
-    "usd_rate": 1790
+    "usd_rate": 1770
   },
   "envios": {
     "enabled": true,
@@ -55,7 +55,7 @@
     "show_wholesale_price": true,
     "show_stock": true,
     "show_products_without_stock": true,
-    "social_share": false
+    "social_share": true
   },
   "checkout": {
     "wholesale_threshold": 1,
