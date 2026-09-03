@@ -1,5 +1,5 @@
 {
-  "version": 6,
+  "version": 7,
   "tienda": {
     "nombre": "URB Importaciones",
     "banner_message": "Estamos de vuelta online",
@@ -15,7 +15,7 @@
   },
   "moneda": {
     "display": "ARS",
-    "usd_rate": 1770
+    "usd_rate": 1730
   },
   "envios": {
     "enabled": true,
