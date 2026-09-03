@@ -1,11 +1,11 @@
 {
-  "version": 2,
+  "version": 3,
   "tienda": {
     "nombre": "URB Importaciones",
     "banner_message": "Estamos de vuelta online",
     "paused": false,
     "email": "urb@urb.com",
-    "phone": "299333333333"
+    "phone": "2993333333334"
   },
   "margenes": {
     "mayorista": 60,
@@ -32,8 +32,22 @@
   "whatsapp": {
     "enabled": true,
     "number": "",
-    "consultas_enabled": false,
-    "consultas_number": ""
+    "consultas_enabled": true,
+    "consultas_number": "5492222222222222",
+    "salespeople": [
+      {
+        "id": 1788463133469,
+        "name": "ramon",
+        "lastName": "valdez",
+        "phone": "8787878878"
+      },
+      {
+        "id": 1788463144364,
+        "name": "carolina",
+        "lastName": "lozada",
+        "phone": "4545454545"
+      }
+    ]
   },
   "web": {
     "cart_add_price": "retail",
