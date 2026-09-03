@@ -1,11 +1,11 @@
 {
-  "version": 4,
+  "version": 5,
   "tienda": {
     "nombre": "URB Importaciones",
     "banner_message": "Estamos de vuelta online",
-    "paused": false,
+    "paused": true,
     "email": "urb@urb.com",
-    "phone": "2993333333334"
+    "phone": "29933333333345"
   },
   "margenes": {
     "mayorista": 60,
@@ -15,7 +15,7 @@
   },
   "moneda": {
     "display": "ARS",
-    "usd_rate": 1680
+    "usd_rate": 1790
   },
   "envios": {
     "enabled": true,
